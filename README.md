@@ -22,5 +22,9 @@ This commit includes the basic structure of the Go project, integration with the
 
   ![WhatsApp Image 2023-12-17 at 23 27 52_6c4f5bb5](https://github.com/primegime/zopsmart_CCvalid/assets/72104511/1c8dfb8a-f780-4b23-912f-3de2df6371f1)
 
+ # Sequence Diagram
+ ![image](https://github.com/primegime/zopsmart_CCvalid/assets/72104511/d276b62a-3316-4f62-b6f8-c69292d734eb)
+
+
 
 Feel free to explore and expand upon this project!
