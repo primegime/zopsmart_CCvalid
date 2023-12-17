@@ -20,4 +20,7 @@ This commit includes the basic structure of the Go project, integration with the
 - gofr.dev/pkg/gofr: Lightweight Go framework for web applications.
 - github.com/go-sql-driver/mysql: MySQL driver for Go's database/sql.
 
+  ![WhatsApp Image 2023-12-17 at 23 27 52_6c4f5bb5](https://github.com/primegime/zopsmart_CCvalid/assets/72104511/1c8dfb8a-f780-4b23-912f-3de2df6371f1)
+
+
 Feel free to explore and expand upon this project!
