@@ -24,6 +24,9 @@ This commit includes the basic structure of the Go project, integration with the
 
  # Sequence Diagram
  ![image](https://github.com/primegime/zopsmart_CCvalid/assets/72104511/d276b62a-3316-4f62-b6f8-c69292d734eb)
+# Class Diagram
+![image](https://github.com/primegime/zopsmart_CCvalid/assets/72104511/defa85bd-f5d0-4e89-a544-52c0aebd8eec)
+
 
 
 
